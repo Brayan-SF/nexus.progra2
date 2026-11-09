@@ -1,0 +1,7 @@
+C:\Users\Control\Downloads\nexus.progra2\videojuegonexus\videojuegonexus\bin\Debug\videojuegonexus.exe.config
+C:\Users\Control\Downloads\nexus.progra2\videojuegonexus\videojuegonexus\bin\Debug\videojuegonexus.exe
+C:\Users\Control\Downloads\nexus.progra2\videojuegonexus\videojuegonexus\bin\Debug\videojuegonexus.pdb
+C:\Users\Control\Downloads\nexus.progra2\videojuegonexus\videojuegonexus\obj\Debug\videojuegonexus.csproj.AssemblyReference.cache
+C:\Users\Control\Downloads\nexus.progra2\videojuegonexus\videojuegonexus\obj\Debug\videojuegonexus.csproj.CoreCompileInputs.cache
+C:\Users\Control\Downloads\nexus.progra2\videojuegonexus\videojuegonexus\obj\Debug\videojuegonexus.exe
+C:\Users\Control\Downloads\nexus.progra2\videojuegonexus\videojuegonexus\obj\Debug\videojuegonexus.pdb
